@@ -1,0 +1,56 @@
+#logo{
+    background-color: #ff4c6e;
+}
+.logo-pic{
+    width: 60%;
+    border-radius: 10px;
+    margin: 5% 7%;
+}
+.container-fluid{
+    margin: 1% 5%;
+    font-family: 'Source Sans Pro'-bold;
+    font-weight: bolder;
+}
+.big-heading{
+    padding: 5% 5%;
+    width: 90%;
+    line-height: 1.5;
+    color: #fff;
+    font-family: 'Montserrat'-bold;
+}
+.head{
+    text-align: center;
+    margin: 5%;
+}
+.space{
+    margin: 5%;
+    line-height: 2;
+    font-weight: lighter;
+}
+#advantages{
+    line-height: 1.5;
+    font-family: 'Source Sans Pro', sans-serif
+}
+.move{
+    padding: 1% 10%;
+    width: 95%;
+    line-height: 1.5;
+}
+#safe{
+    background-color: #ff4c6e;
+    color: #fff;
+}
+#ref{
+    background-color: #ff4c6e;
+}
+.refer{
+    width: 40%;
+    margin: 5% 30% 2%;
+}
+.reach-me{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #ff4c6e;
+    margin: 0% 0% 3%;
+}
